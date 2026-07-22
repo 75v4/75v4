@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=fern.xyz)](https://git.io/typing-svg)
 
 <!--
 **75v4/75v4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
